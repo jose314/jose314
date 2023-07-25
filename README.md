@@ -1,4 +1,4 @@
-#  Jose Rodriguez 
+#  Sofware Developer
 
 With a diverse skill set spanning JavaScript, HTML, CSS, WordPress, Python, React JS, and front-end development, I am your ultimate tech powerhouse. I create captivating user experiences, craft stunning interfaces, and build dynamic applications. Let me bring your visions to life and exceed your expectations with my expertise and passion.
 
